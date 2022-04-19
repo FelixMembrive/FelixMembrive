@@ -1,8 +1,8 @@
 
 <h2>Olá, meu nome é Felix Membrive<h2>
 
-<h4>Em 2015 com um grupo de amigos e 2 irmão, decidimos mergulhar na criação de um aplicativo.<h4>
-<h4>Começava o que chamariamos mais a frente de <stong>HammerGO!<stong> Um aplicativo/game que tem como proposta principal recompensar o usuário com o tempo que ele passa interagindo e propagando o aplicativo.<h4>
+<!-- <h4>Em 2015 com um grupo de amigos e 2 irmão, decidimos mergulhar na criação de um aplicativo.<h4>
+<h4>Começava o que chamariamos mais a frente de <stong>HammerGO!<stong> Um aplicativo/game que tem como proposta principal recompensar o usuário com o tempo que ele passa interagindo e propagando o aplicativo.<h4> -->
 
 
 <!--
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelixMembrive&theme=onedark&row=1&margin-w=5" alt="FelixMembrive" /></a> </p>
+<!-- <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelixMembrive&theme=onedark&row=1&margin-w=5" alt="FelixMembrive" /></a> </p> -->
