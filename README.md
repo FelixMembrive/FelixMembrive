@@ -1,5 +1,10 @@
 
-<h2>Olá, meu nome é Felix Membrive<h2>
+<h2>Olá, seja bem vindo e obrigado pela visita !<h2>
+
+<h4>Meu nome é Felix Membrive, projetista e amante da lógica vivendo no interior de São Paulo.<h4>
+<h4>Estou me desenvolvendo na área de criação de softwares para colocar em produção um antigo projeto chamado HammerGO!<h4>
+<h4>Atualmente cursando o XP42 Hacker na escola Gamma Academy<h4>
+
 
 <!-- <h4>Em 2015 com um grupo de amigos e 2 irmão, decidimos mergulhar na criação de um aplicativo.<h4>
 <h4>Começava o que chamariamos mais a frente de <stong>HammerGO!<stong> Um aplicativo/game que tem como proposta principal recompensar o usuário com o tempo que ele passa interagindo e propagando o aplicativo.<h4> -->
