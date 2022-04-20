@@ -1,6 +1,5 @@
 
 <h2>Olá, seja bem vindo e obrigado pela visita !<h2>
-
 <h4>Meu nome é Felix Membrive, exerço a profissão de projetista de estruturas metálicas e sou amante da lógica.<br>
 Vivendo no interior de São Paulo, em Itu, onde tudo é grande, assim como a minha vontade de aprender coisas novas.<h4>
 <h4>Estou me desenvolvendo na área de criação de softwares para colocar em produção um antigo projeto chamado <strong>"HammerGO!".<strong><h4>
