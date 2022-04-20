@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <!-- <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelixMembrive&theme=onedark&row=1&margin-w=5" alt="FelixMembrive" /></a> </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?felixmembrive=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixmembrive&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
