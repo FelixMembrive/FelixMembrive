@@ -2,7 +2,8 @@
 <h2>Olá, seja bem vindo e obrigado pela visita !<h2>
 <h4>Meu nome é Felix Membrive, exerço a profissão de projetista de estruturas metálicas e sou amante da lógica.<br>
 Vivendo no interior de São Paulo, em Itu, onde tudo é grande, assim como a minha vontade de aprender coisas novas.<h4>
-<h4>Estou me desenvolvendo na área de criação de softwares para colocar em produção um antigo projeto de StartUp chamado <strong>"HammerGO!" (50k downloads em 2016). Além de todo conhecimento busco também parcerias e um novo time de Desenvolvedores.<strong><h4>
+<h4>Estou me desenvolvendo na área de criação de softwares para colocar em produção um antigo projeto de StartUp chamado <strong>"HammerGO!" (50k downloads em 2016).
+<br>Além de todo conhecimento busco também parcerias e um novo time de Desenvolvedores.<strong><h4>
 <h4>Atualmente cursando o XP42 Hacker na escola Gamma Academy.<br>Curso focado na criação de softwares e páginas WEB com HTML5, CSS, JavaScript e React.<h4>
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
