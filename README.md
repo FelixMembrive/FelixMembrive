@@ -14,7 +14,7 @@ Vivendo no interior de São Paulo, em Itu, onde tudo é grande, assim como a min
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <br>
 
-<h4>Gosto de praticidade e automatização e nessa minha nova jornada acho essencial um bom editor de texto<h4>
+<h4>Gosto de praticidade e automatização e nessa minha nova jornada acho essencial um bom editor.<h4>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <br><br>
 
